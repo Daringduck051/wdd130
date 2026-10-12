@@ -17,6 +17,7 @@ div {
 
 #subtitle {
     color: #91E4FB;
+    text-decoration: none;
     font-family: Helvetica;
 }
 
@@ -29,14 +30,16 @@ img {
 }
 
 #list {
+    font-size: 20px;
     justify-self: center;
     color: #FFFFFE;
     font-family: Helvetica;
 }
 
 #quote {
+    font-size: x-large;
     width: 300px;
     justify-self: center;
     color: #FFD783;
-    font: "Brush Script MT"
+    font-family: "Nanum Brush Script";
 }
