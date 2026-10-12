@@ -1,0 +1,39 @@
+div {
+    justify-self: center;
+}
+
+#card {
+    width: 550px;
+    background-color: #008DB1;
+    border: 10px solid #004E63;
+    border-radius: 10%;
+    text-align: center;
+}
+
+#title {
+    color: #FFFFFE;
+    font: Helvetica;
+}
+
+#subtitle {
+    color: #91E4FB;
+    font: Helvetica;
+}
+
+img {
+    margin-top: 10px;
+    border: 5px solid #FFFFFF;
+}
+
+#list {
+    justify-self: center;
+    color: #FFFFFE;
+    font: Helvetica;
+}
+
+#quote {
+    width: 300px;
+    justify-self: center;
+    color: #FFD783;
+    font: "Brush Script MT"
+}
