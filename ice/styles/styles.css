@@ -12,12 +12,12 @@ div {
 
 #title {
     color: #FFFFFE;
-    font: Helvetica;
+    font-family: Helvetica;
 }
 
 #subtitle {
     color: #91E4FB;
-    font: Helvetica;
+    font-family: Helvetica;
 }
 
 img {
@@ -28,7 +28,7 @@ img {
 #list {
     justify-self: center;
     color: #FFFFFE;
-    font: Helvetica;
+    font-family: Helvetica;
 }
 
 #quote {
