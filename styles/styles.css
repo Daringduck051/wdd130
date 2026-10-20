@@ -1,0 +1,81 @@
+#logo {
+    width: 5%;
+    height: 5%;
+}
+
+.home-photo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main p {
+    text-align: center;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FBFBFF;
+    border-bottom: #5656561f 5px solid;
+}
+
+nav a {
+    text-align: center;
+    color: #565656;
+    text-decoration: none;
+    padding: 35px;
+}
+
+nav a:hover {
+    color:#E54B4B;
+}
+
+footer {
+    background-color: #FBFBFF;
+    color: #565656;
+    padding: 25px 50px;
+    margin-top: 200px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+footer a {
+    color: #565656;
+    text-decoration: none;
+}
+
+footer a:hover {
+    color: #E54B4B;
+}
+
+footer p {
+    font-size: 1.2em;
+    font-family: "Fira Sans", sans-serif;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer .social img {
+    padding-top: 15px;
+}
+
+.profile {
+    display: flex;
+}
+
+.profile img {
+    margin-left: 50px;
+    margin-right: 10px;
+    height: auto;
+    width: 300px;
+}
+
+.profile p {
+    margin-top: 50px;
+    width: 300px;
+    text-align: left;
+}
