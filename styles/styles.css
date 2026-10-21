@@ -11,6 +11,9 @@
 
 main p {
     text-align: center;
+    justify-self: center;
+    align-items: center;
+    width: 500px;
 }
 
 nav {
